@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="/js/lib/bootstrap-4.0.0-beta-dist/css/bootstrap-reboot.css" >
     <link rel="stylesheet" href="/js/lib/bootstrap-4.0.0-beta-dist/css/bootstrap.css" >
     <link rel="stylesheet" href="/js/lib/bootstrap-4.0.0-beta-dist/css/bootstrap-grid.css" >
+    <link rel="stylesheet" href="/css/style.css" >
 </head>
 <body>
 
@@ -28,7 +29,7 @@
                     <a class="nav-link" href="#">Features</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" href="/signup">Sign Up</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

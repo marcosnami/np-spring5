@@ -23,9 +23,6 @@ import java.util.Optional;
 @Controller
 public class WelcomeController {
 
-    @Autowired
-    private MessageSource messageSource;
-
     @Value("${application.message: Hello World}")
     private String message = "Hello World!";
 
